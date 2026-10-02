@@ -21,7 +21,7 @@ class ApplicationReceivedAdmin extends Mailable
 
     public function build(): self
     {
-        $subject = 'New financing application received';
+        $subject = 'Neuer Finanzierungsantrag eingegangen';
 
         return $this->subject($subject)
             ->view('emails.apply.admin')
