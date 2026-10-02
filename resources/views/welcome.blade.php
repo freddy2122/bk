@@ -431,7 +431,7 @@
     <div class="container pb-5 pt-3 pt-md-4 pt-lg-5 my-xl-3 my-xxl-5">
         <div class="row align-items-center">
             <div class="col-md-6 order-md-2 mb-4 mb-md-0">
-                <img class="d-block rounded-4 w-100" src="https://www.banque-habitat-benin.com/wp-content/uploads/2019/11/shutterstock_178390097.jpg" alt="Agrément ACPR et AMF">
+                <img class="d-block rounded-4 w-100" src="https://www.banque-habitat-benin.com/wp-content/uploads/2019/11/shutterstock_178390097.jpg" alt="Zulassung durch die Aufsichtsbehörden">
             </div>
             <div class="col-md-6 order-md-1">
                 <h2 class="mb-3">@lang('TRD220')</h2>
@@ -448,7 +448,7 @@
 <section class="container py-5">
     <div class="row align-items-center g-4">
         <div class="col-md-6">
-            <img class="d-block rounded-4 w-100" src="https://www.orabank.net/sites/default/files/2020-12/img-ora-conso.png" alt="Processus de demande de prêt">
+            <img class="d-block rounded-4 w-100" src="https://www.orabank.net/sites/default/files/2020-12/img-ora-conso.png" alt="Ablauf des Kreditantrags">
         </div>
         <div class="col-md-6">
             <h2 class="mb-2">@lang('TRD063')</h2>

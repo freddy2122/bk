@@ -16,12 +16,14 @@
         <div class="card-body p-4">
           <h2 class="h5 mb-3">@lang('TRD008')</h2>
           <div class="row g-3">
-            <div class="col-6 col-md-4"><div class="text-body-secondary">@lang('TRD001')</div><div class="fw-semibold">€{{ number_format($summary['amount'], 2, ',', ' ') }}</div></div>
-            <div class="col-6 col-md-4"><div class="text-body-secondary">@lang('TRD002')</div><div class="fw-semibold">{{ $summary['months'] }} @lang('TRD003')</div></div>
-            <div class="col-6 col-md-4"><div class="text-body-secondary">@lang('TRD004')</div><div class="fw-semibold">{{ $summary['annual_rate'] }}%</div></div>
-            <div class="col-6 col-md-4"><div class="text-body-secondary">@lang('TRD009')</div><div class="fw-semibold">€{{ number_format($summary['monthly_payment'], 2, ',', ' ') }}</div></div>
-            <div class="col-6 col-md-4"><div class="text-body-secondary">@lang('TRD019')</div><div class="fw-semibold">€{{ number_format($summary['total_interest'], 2, ',', ' ') }}</div></div>
-            <div class="col-6 col-md-4"><div class="text-body-secondary">@lang('TRD020')</div><div class="fw-semibold">€{{ number_format($summary['total_payment'], 2, ',', ' ') }}</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD001')</div><div class="fw-semibold">€{{ number_format($summary['amount'], 2, ',', ' ') }}</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD002')</div><div class="fw-semibold">{{ $summary['months'] }} @lang('TRD003')</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD004')</div><div class="fw-semibold">{{ $summary['annual_rate'] }}%</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD009')</div><div class="fw-semibold">€{{ number_format($summary['monthly_payment'], 2, ',', ' ') }}</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD019')</div><div class="fw-semibold">€{{ number_format($summary['total_interest'], 2, ',', ' ') }}</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD020')</div><div class="fw-semibold">€{{ number_format($summary['total_payment'], 2, ',', ' ') }}</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD400')</div><div class="fw-semibold">€{{ number_format($summary['processing_fee'], 2, ',', ' ') }}</div></div>
+            <div class="col-6 col-md-3"><div class="text-body-secondary">@lang('TRD401')</div><div class="fw-semibold">€{{ number_format($summary['total_cost'], 2, ',', ' ') }}</div></div>
           </div>
         </div>
       </div>

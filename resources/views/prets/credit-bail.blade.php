@@ -26,7 +26,7 @@
         <div class="col-lg-8">
             <h1 class="h1 mb-4 text-dark">@lang('TRD043')</h1>
             <img class="img-fluid mb-4 w-100" src="https://www.affacturage.fr/img/produits/pret-bancaire-professionnel.jpg" alt="@lang('TRD039')">
-            <p class="text-body-secondary fs-5 mb-4">@lang('TRD056')</p>
+            <p class="text-body-secondary fs-5 mb-4">@lang('TRD056', ['site' => setting('SITE_NAME', config('app.name'))])</p>
             <p class="text-body-secondary mb-0">@lang('TRD057')</p>
 
             
@@ -35,7 +35,7 @@
         <div class="col-lg-4">
             <aside class="sticky-sidebar">
                 <div class="mb-4">
-                    <!-- <div class="nav-menu-header px-3 py-2 mb-2">Prêt en ligne</div> -->
+                    <!-- <div class="nav-menu-header px-3 py-2 mb-2">Online-Kredit</div> -->
                     <div class="list-group list-group-flush">
                         <a class="list-group-item px-3 py-2 list-group-item-action nav-menu-item" href="{{ route('loans.conso') }}">@lang('TRD039')</a>
                         <a class="list-group-item px-3 py-2 list-group-item-action nav-menu-item" href="{{ route('loans.travaux') }}">@lang('TRD040')</a>

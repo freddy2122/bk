@@ -18,8 +18,7 @@
   "TRD017": "Contact us",
   "TRD018": "Your request has been recorded. Our advisor will analyze your file and contact you.",
   "TRD019": "Total interest",
-  "TRD020": "Total cost"
-  ,
+  "TRD020": "Total cost",
   "TRD021": "Your financing request",
   "TRD022": "We have received your request. Here is a summary:",
   "TRD023": "Our team will contact you shortly to finalize your application.",
@@ -53,10 +52,8 @@
   "TRD063": "In 3 steps",
   "TRD064": "Ready to start your application?",
   "TRD065": "An advisor supports you at every step.",
-  "TRD066": "Loan application process"
-  ,
-  "TRD070": "Experienced agency crafting strategies for B2B and B2C companies."
-  ,
+  "TRD066": "Loan application process",
+  "TRD070": "Experienced agency crafting strategies for B2B and B2C companies.",
   "TRD100": "Financing application — Step 1",
   "TRD101": "Your project in a few details.",
   "TRD102": "Loan type",
@@ -95,8 +92,7 @@
   "TRD139": "cookie policy",
   "TRD140": "Back to step 1",
   "TRD141": "Submit my application",
-  "TRD142": "No., street, city, postal code"
-  ,
+  "TRD142": "No., street, city, postal code",
   "TRD200": "Finance your activity simply and safely. Consumer loans, home improvement, mortgage, debt consolidation, leasing and student loans. Protect your projects with our borrower, home, health, pet and business insurance.",
   "TRD201": "Satisfied clients",
   "TRD202": "Projects completed",
@@ -140,8 +136,7 @@
   "TRD244": "Professional mortgage obtained on time, terms matched the offer. No hidden fees.",
   "TRD245": "Quick contact after my request. Schedule adapted to my situation and very simple e‑signature.",
   "TRD246": "Needed express financing for an opportunity: funds received in 72 hours. Efficient.",
-  "TRD247": "Available customer service and clear explanations. I’ll go through :site for my next projects."
-  ,
+  "TRD247": "Available customer service and clear explanations. I’ll go through :site for my next projects.",
   "TRD300": "Consumer credit is a type of credit granted to individuals to finance the purchase of goods and services or major equipment expenses.",
   "TRD301": "Granted to households to help finance purchases of goods and services.",
   "TRD302": "Our advantages",
@@ -182,5 +177,7 @@
   "TRD371": "What is the applicable rate?",
   "TRD372": "The fixed rate starts at 3% depending on your profile and loan duration.",
   "TRD373": "Which documents are required?",
-  "TRD374": "An ID, proof of residence, and proof of income are sufficient in most cases."
+  "TRD374": "An ID, proof of residence, and proof of income are sufficient in most cases.",
+  "TRD400": "Processing fee",
+  "TRD401": "Total cost incl. processing fee"
 }

@@ -37,7 +37,7 @@ Route::prefix('{locale}/assurances')->name('insurance.')->group(function () {
     Route::view('/habitation', 'assurances.habitation')->name('habitation');
     Route::view('/sante', 'assurances.sante')->name('sante');
     Route::view('/animaux', 'assurances.animaux')->name('animaux');
-    Route::view('/professionnelles', 'assurances.professionnelles')->name('professionnelles');
+    Route::view('/professionnelles', 'assurances.professionnelle')->name('professionnelles');
 });
 
 // À propos

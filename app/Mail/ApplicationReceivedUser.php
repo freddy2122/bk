@@ -23,6 +23,7 @@ class ApplicationReceivedUser extends Mailable
     {
         $locale = app()->getLocale();
         $subject = match ($locale) {
+            'de' => 'Wir haben Ihren Finanzierungsantrag erhalten',
             'en' => 'We received your financing request',
             'es' => 'Hemos recibido su solicitud de financiación',
             default => 'Nous avons bien reçu votre demande de financement',

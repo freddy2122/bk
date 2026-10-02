@@ -53,8 +53,7 @@
   "TRD064": "¿Listo para iniciar su solicitud?",
   "TRD065": "Un asesor le acompaña en cada etapa.",
   "TRD066": "Proceso de solicitud de préstamo",
-  "TRD070": "Agencia con amplia experiencia que diseña estrategias para empresas B2B y B2C."
-  ,
+  "TRD070": "Agencia con amplia experiencia que diseña estrategias para empresas B2B y B2C.",
   "TRD100": "Solicitud de financiación — Paso 1",
   "TRD101": "Su proyecto en pocos detalles.",
   "TRD102": "Tipo de préstamo",
@@ -93,8 +92,7 @@
   "TRD139": "política de cookies",
   "TRD140": "Volver al paso 1",
   "TRD141": "Enviar mi solicitud",
-  "TRD142": "N.º, calle, ciudad, código postal"
-  ,
+  "TRD142": "N.º, calle, ciudad, código postal",
   "TRD200": "Financie su actividad de forma simple y segura. Préstamos al consumo, para reformas, hipoteca, consolidación de deudas, leasing y préstamos estudiantiles. Proteja sus proyectos con nuestros seguros de deudor, hogar, salud, mascotas y empresariales.",
   "TRD201": "Clientes satisfechos",
   "TRD202": "Proyectos realizados",
@@ -138,8 +136,7 @@
   "TRD244": "Hipoteca profesional obtenida a tiempo, condiciones conformes a la oferta. Sin costes ocultos.",
   "TRD245": "Contacto rápido tras mi solicitud. Calendario adaptado a mi situación y firma online muy sencilla.",
   "TRD246": "Necesitaba financiación exprés para una oportunidad: fondos recibidos en 72 horas. Eficaz.",
-  "TRD247": "Atención al cliente disponible y explicaciones claras. Volveré a :site para mis próximos proyectos."
-  ,
+  "TRD247": "Atención al cliente disponible y explicaciones claras. Volveré a :site para mis próximos proyectos.",
   "TRD300": "El crédito al consumo es un crédito concedido a particulares para financiar la compra de bienes y servicios o gastos importantes de equipamiento.",
   "TRD301": "Concedido a los hogares para financiar compras de bienes y servicios.",
   "TRD302": "Nuestras ventajas",
@@ -180,5 +177,7 @@
   "TRD371": "¿Cuál es la tasa aplicada?",
   "TRD372": "La tasa fija comienza en 3% según el perfil y la duración del préstamo.",
   "TRD373": "¿Qué documentos se deben presentar?",
-  "TRD374": "Un documento de identidad, comprobante de domicilio e ingresos son suficientes en la mayoría de los casos."
+  "TRD374": "Un documento de identidad, comprobante de domicilio e ingresos son suficientes en la mayoría de los casos.",
+  "TRD400": "Gastos de tramitación",
+  "TRD401": "Coste total con gastos de tramitación"
 }

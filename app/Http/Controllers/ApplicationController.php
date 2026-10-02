@@ -110,6 +110,8 @@ class ApplicationController extends Controller
             'monthly_payment' => round($payment, 2),
             'total_payment' => round($total, 2),
             'total_interest' => round($interestTotal, 2),
+            'processing_fee' => round((float) PROCESSING_FEE, 2),
+            'total_cost' => round($total + (float) PROCESSING_FEE, 2),
             'amount' => round($amount, 2),
             'months' => $months,
         ];

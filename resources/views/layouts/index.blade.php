@@ -8,10 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover">
 
     <!-- SEO meta tags -->
-    <title>Around | Business Consulting</title>
-    <meta name="description" content="Around - Multipurpose Bootstrap HTML Template">
-    <meta name="keywords" content="bootstrap, business, corporate, coworking space, services, creative agency, dashboard, e-commerce, mobile app showcase, saas, multipurpose, product landing, shop, software, ui kit, web studio, landing, light and dark mode, html5, css3, javascript, gallery, slider, touch, creative">
-    <meta name="author" content="Createx Studio">
+    <title>{{ setting('SITE_NAME', config('app.name')) }}</title>
+    <meta name="description" content="{{ setting('SITE_NAME', config('app.name')) }} – Online-Kredite und Versicherungen">
+    <meta name="keywords" content="Kredit, Konsumkredit, Immobilienkredit, Umschuldung, Versicherung, Finanzierung">
+    <meta name="author" content="{{ setting('SITE_NAME', config('app.name')) }}">
 
     <!-- Webmanifest + Favicon / App icons -->
     <link rel="manifest" href="/manifest.json">
@@ -161,7 +161,7 @@
     <div class="page-loading active">
         <div class="page-loading-inner">
             <div class="page-spinner"></div>
-            <span>Loading...</span>
+            <span>Wird geladen...</span>
         </div>
     </div>
 
@@ -320,7 +320,7 @@
                         <div class="col">
                             <ul class="nav flex-column mb-0">
                                 <li class="nav-item mb-2">
-                                    <a class="nav-link p-0" href="tel:+33123456789">{{ setting('SITE_PHONE', '+33 1 23 45 67 89') }}</a>
+                                    <a class="nav-link p-0" href="tel:{{ preg_replace('/[^0-9+]/', '', setting('SITE_PHONE', SITE_PHONE)) }}">{{ setting('SITE_PHONE', SITE_PHONE) }}</a>
                                 </li>
                                 
                                 <li class="nav-item mb-2">
@@ -331,7 +331,7 @@
                     </div>
                 </div>
             </div>
-            <div class="nav fs-sm text-body-secondary">&copy; All rights reserved. Made by <a class="nav-link fw-normal p-0 ms-1" href="https://createx.studio/" target="_blank" rel="noopener">Createx Studio</a></div>
+            <div class="nav fs-sm text-body-secondary">&copy; {{ date('Y') }} {{ setting('SITE_NAME', SITE_NAME) }}. Alle Rechte vorbehalten.</div>
         </div>
     </footer>
 
