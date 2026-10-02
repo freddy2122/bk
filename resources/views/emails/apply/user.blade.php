@@ -15,6 +15,8 @@
     <li>@lang('TRD005'): €{{ number_format($summary['monthly_payment'], 2, ',', ' ') }}</li>
     <li>@lang('TRD006'): €{{ number_format($summary['total_interest'], 2, ',', ' ') }}</li>
     <li>@lang('TRD007'): €{{ number_format($summary['total_payment'], 2, ',', ' ') }}</li>
+    <li>@lang('TRD400'): €{{ number_format($summary['processing_fee'], 2, ',', ' ') }}</li>
+    <li>@lang('TRD401'): €{{ number_format($summary['total_cost'], 2, ',', ' ') }}</li>
   </ul>
 
   <p>@lang('TRD023')</p>

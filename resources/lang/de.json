@@ -53,8 +53,7 @@
   "TRD064": "Bereit, Ihre Anfrage zu starten?",
   "TRD065": "Ein Berater begleitet Sie in jedem Schritt.",
   "TRD066": "Ablauf der Kreditanfrage",
-  "TRD070": "Erfahrene Agentur, die Strategien für B2B‑ und B2C‑Unternehmen entwickelt."
-  ,
+  "TRD070": "Erfahrene Agentur, die Strategien für B2B‑ und B2C‑Unternehmen entwickelt.",
   "TRD100": "Finanzierungsantrag — Schritt 1",
   "TRD101": "Ihr Projekt in wenigen Angaben.",
   "TRD102": "Kreditart",
@@ -93,8 +92,7 @@
   "TRD139": "Cookie‑Richtlinie",
   "TRD140": "Zurück zu Schritt 1",
   "TRD141": "Antrag absenden",
-  "TRD142": "Nr., Straße, Stadt, PLZ"
-  ,
+  "TRD142": "Nr., Straße, Stadt, PLZ",
   "TRD200": "Finanzieren Sie Ihr Vorhaben einfach und sicher. Konsumkredit, Renovierungskredit, Hypothek, Schuldenkonsolidierung, Leasing und Studienkredit. Schützen Sie Ihre Projekte mit unseren Versicherungen: Kreditnehmer‑, Haus‑, Kranken‑, Tier‑ und Firmenversicherung.",
   "TRD201": "Zufriedene Kunden",
   "TRD202": "Abgeschlossene Projekte",
@@ -138,8 +136,7 @@
   "TRD244": "Gewerbliche Hypothek rechtzeitig erhalten, Konditionen entsprachen dem Angebot. Keine versteckten Gebühren.",
   "TRD245": "Schneller Kontakt nach der Anfrage. Plan an meine Situation angepasst, E‑Signatur sehr einfach.",
   "TRD246": "Eilfinanzierung genutzt – Gelder in 72 Stunden. Effizient.",
-  "TRD247": "Erreichbarer Kundenservice, klare Erklärungen. Ich wähle :site auch für kommende Projekte."
-  ,
+  "TRD247": "Erreichbarer Kundenservice, klare Erklärungen. Ich wähle :site auch für kommende Projekte.",
   "TRD300": "Verbraucherkredit ist eine Kreditart, die Privatpersonen zur Finanzierung von Gütern und Dienstleistungen oder größerer Ausstattung gewährt wird.",
   "TRD301": "Wird Haushalten gewährt, um den Kauf von Gütern und Dienstleistungen zu finanzieren.",
   "TRD302": "Unsere Vorteile",
@@ -180,5 +177,10 @@
   "TRD371": "Welcher Zinssatz gilt?",
   "TRD372": "Der Festzins beginnt bei 3%, abhängig von Ihrem Profil und der Laufzeit des Kredits.",
   "TRD373": "Welche Unterlagen werden benötigt?",
-  "TRD374": "Ein Ausweis, ein Wohnsitznachweis und ein Einkommensnachweis genügen in den meisten Fällen."
+  "TRD374": "Ein Ausweis, ein Wohnsitznachweis und ein Einkommensnachweis genügen in den meisten Fällen.",
+  "TRD400": "Bearbeitungsgebühr",
+  "TRD401": "Gesamtkosten inkl. Bearbeitungsgebühr",
+  "TDR354": "Sie möchten Arbeiten in Ihrer Wohnung oder Ihrem Haus durchführen (z. B. Dämmung, Anbau, Renovierung, Dekoration)? Der Renovierungskredit, eine Form des Konsumkredits, ermöglicht Ihnen die Umsetzung: Meist handelt es sich um einen Kredit mit festem Zinssatz und relativ kurzer Rückzahlungsdauer, im Gegensatz zum Immobilienkredit, der langfristig angelegt ist.",
+  "TRD056": "Leasing ist ein Mietsystem, bei dem ein Kunde ein Objekt mietet. Es beinhaltet jedoch eine Kaufoption am Ende der vereinbarten Laufzeit. Erhalten Sie ein Leasing bei :site, bis zu 75.000 Euro zu einem Festzins von 3 % pro Jahr.",
+  "TRD057": "Eine Kreditform, bei der ein bewegliches oder unbewegliches Gut mit Kaufversprechen vermietet wird."
 }

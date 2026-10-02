@@ -53,8 +53,7 @@
   "TRD064": "Pronto ad avviare la tua richiesta?",
   "TRD065": "Un consulente ti supporta in ogni fase.",
   "TRD066": "Processo di richiesta di prestito",
-  "TRD070": "Agenzia esperta che progetta strategie per aziende B2B e B2C."
-  ,
+  "TRD070": "Agenzia esperta che progetta strategie per aziende B2B e B2C.",
   "TRD100": "Richiesta di finanziamento — Fase 1",
   "TRD101": "Il tuo progetto in pochi dettagli.",
   "TRD102": "Tipo di prestito",
@@ -93,8 +92,7 @@
   "TRD139": "politica sui cookie",
   "TRD140": "Torna alla fase 1",
   "TRD141": "Invia la mia richiesta",
-  "TRD142": "N., via, città, CAP"
-  ,
+  "TRD142": "N., via, città, CAP",
   "TRD200": "Finanzia la tua attività in modo semplice e sicuro. Prestiti al consumo, ristrutturazione, mutuo, consolidamento debiti, leasing e prestito studentesco. Proteggi i tuoi progetti con le nostre assicurazioni: mutuatario, casa, salute, animali e aziendali.",
   "TRD201": "Clienti soddisfatti",
   "TRD202": "Progetti completati",
@@ -138,8 +136,7 @@
   "TRD244": "Mutuo professionale ottenuto nei tempi, condizioni conformi all’offerta. Nessun costo nascosto.",
   "TRD245": "Contatto rapido dopo la richiesta. Piano adeguato alla mia situazione e firma online molto semplice.",
   "TRD246": "Finanziamento express per un’opportunità: fondi ricevuti in 72 ore. Efficiente.",
-  "TRD247": "Assistenza clienti disponibile e spiegazioni chiare. Tornerò da :site per i prossimi progetti."
-  ,
+  "TRD247": "Assistenza clienti disponibile e spiegazioni chiare. Tornerò da :site per i prossimi progetti.",
   "TRD300": "Il credito al consumo è un credito concesso ai privati per finanziare l'acquisto di beni e servizi o spese importanti per attrezzature.",
   "TRD301": "Concesso alle famiglie per consentire l'acquisto di beni e servizi.",
   "TRD302": "I nostri vantaggi",
@@ -180,5 +177,7 @@
   "TRD371": "Qual è il tasso applicato?",
   "TRD372": "Il tasso fisso parte dal 3% a seconda del profilo e della durata del prestito.",
   "TRD373": "Quali documenti fornire?",
-  "TRD374": "Un documento d'identità, prova di residenza e prova di reddito sono sufficienti nella maggior parte dei casi."
+  "TRD374": "Un documento d'identità, prova di residenza e prova di reddito sono sufficienti nella maggior parte dei casi.",
+  "TRD400": "Spese di istruttoria",
+  "TRD401": "Costo totale incluse spese di istruttoria"
 }

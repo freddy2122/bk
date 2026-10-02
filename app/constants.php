@@ -1,10 +1,10 @@
 <?php
 
 // Admin-configurable site constants
-if (!defined('DEFAULT_SITE_LANGUAGE')) define('DEFAULT_SITE_LANGUAGE', 'fr');
+if (!defined('DEFAULT_SITE_LANGUAGE')) define('DEFAULT_SITE_LANGUAGE', 'de');
 if (!defined('ALLOW_WEBPAGE_LOADER')) define('ALLOW_WEBPAGE_LOADER', false);
 
-if (!defined('SITE_NAME')) define('SITE_NAME', 'Hypo Finanz');
+if (!defined('SITE_NAME')) define('SITE_NAME', 'Losung Finanz');
 if (!defined('WEBSITE_CREATED_DATE')) define('WEBSITE_CREATED_DATE', '2011');
 if (!defined('SITE_ADDRESS')) define('SITE_ADDRESS', 'Barutherstr 28, 14959 Trebbin.');
 
@@ -16,6 +16,7 @@ if (!defined('SITE_PHONE_2')) define('SITE_PHONE_2', '');
 if (!defined('WEBMASTER_NAME')) define('WEBMASTER_NAME', 'Karl Heinz');
 if (!defined('AUTHOR_NAME')) define('AUTHOR_NAME', 'Karl Heinz');
 if (!defined('TEAG')) define('TEAG', '2%');
+if (!defined('PROCESSING_FEE')) define('PROCESSING_FEE', 160);
 
 if (!defined('DS')) define('DS', DIRECTORY_SEPARATOR);
 if (!defined('PAGE_SAMPLE_DIR')) define('PAGE_SAMPLE_DIR', dirname(__DIR__) . '/resources/views/elements/');

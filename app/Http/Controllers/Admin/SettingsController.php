@@ -43,7 +43,7 @@ class SettingsController extends Controller
 
         \settings_clear_cache();
 
-        return redirect()->route('admin.settings.index')->with('status', 'Paramètres enregistrés.');
+        return redirect()->route('admin.settings.index')->with('status', 'Einstellungen gespeichert.');
     }
 
     /**

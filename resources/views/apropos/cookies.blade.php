@@ -11,14 +11,14 @@
         <nav aria-label="breadcrumb">
           <ol class="pt-lg-3 pb-lg-4 pb-2 breadcrumb justify-content-center">
             <li class="breadcrumb-item">
-              <a href="/">Accueil</a>
+              <a href="/">Startseite</a>
             </li>
-            <li class="breadcrumb-item active text-center" aria-current="page">Gestion des cookies
+            <li class="breadcrumb-item active text-center" aria-current="page">Cookie-Verwaltung
             </li>
           </ol>
         </nav>
 
-        <h1 class=" pb-2 pb-sm-3 " style="color: black;">Gestion des cookies
+        <h1 class=" pb-2 pb-sm-3 " style="color: black;">Cookie-Verwaltung
         </h1>
 
       </div>
@@ -30,20 +30,20 @@
     <aside class="col-lg-4 col-xl-3 d-none d-lg-block">
       <div class="card border-0 shadow-sm position-sticky" style="top: 6rem;">
         <div class="card-body p-3">
-          <h6 class="mb-3">Sommaire</h6>
+          <h6 class="mb-3">Inhalt</h6>
           <nav id="toc" class="nav nav-pills flex-column gap-1 small">
-            <a class="nav-link" href="#definitions">Définitions et périmètre</a>
-            <a class="nav-link" href="#quoi">Qu’est-ce qu’un cookie ?</a>
-            <a class="nav-link" href="#types">Types de cookies utilisés</a>
-            <a class="nav-link" href="#finalites">Finalités et base légale</a>
-            <a class="nav-link" href="#consentement">Gestion du consentement</a>
-            <a class="nav-link" href="#parametrage">Paramétrage des cookies</a>
-            <a class="nav-link" href="#duree">Durée de conservation</a>
-            <a class="nav-link" href="#tiers">Cookies tiers</a>
-            <a class="nav-link" href="#securite">Sécurité</a>
-            <a class="nav-link" href="#droits">Vos droits</a>
-            <a class="nav-link" href="#contact">Contact</a>
-            <a class="nav-link" href="#maj">Mises à jour</a>
+            <a class="nav-link" href="#definitions">Begriffe und Geltungsbereich</a>
+            <a class="nav-link" href="#quoi">Was ist ein Cookie?</a>
+            <a class="nav-link" href="#types">Verwendete Cookie-Arten</a>
+            <a class="nav-link" href="#finalites">Zwecke und Rechtsgrundlage</a>
+            <a class="nav-link" href="#consentement">Einwilligungsverwaltung</a>
+            <a class="nav-link" href="#parametrage">Cookie-Einstellungen</a>
+            <a class="nav-link" href="#duree">Speicherdauer</a>
+            <a class="nav-link" href="#tiers">Cookies von Drittanbietern</a>
+            <a class="nav-link" href="#securite">Sicherheit</a>
+            <a class="nav-link" href="#droits">Ihre Rechte</a>
+            <a class="nav-link" href="#contact">Kontakt</a>
+            <a class="nav-link" href="#maj">Aktualisierungen</a>
           </nav>
           <hr>
         </div>
@@ -54,47 +54,47 @@
       <div data-bs-spy="scroll" data-bs-target="#toc" data-bs-offset="80" tabindex="0">
 
         <section id="definitions" class="pb-5">
-          <h2 class="h3 mb-3">Définitions et périmètre</h2>
-          <p class="text-body-secondary mb-0">La présente politique explique l’utilisation des cookies et technologies similaires déposés depuis notre site sur votre terminal lorsque vous le consultez. Elle s’applique à l’ensemble des services fournis via le Site.</p>
+          <h2 class="h3 mb-3">Begriffe und Geltungsbereich</h2>
+          <p class="text-body-secondary mb-0">Diese Richtlinie erläutert die Verwendung von Cookies und ähnlichen Technologien, die beim Besuch unserer Website auf Ihrem Endgerät gespeichert werden. Sie gilt für alle über die Website bereitgestellten Dienste.</p>
         </section>
 
         <section id="quoi" class="pb-5">
-          <h2 class="h3 mb-3">Qu’est-ce qu’un cookie ?</h2>
-          <p class="text-body-secondary mb-0">Un cookie est un petit fichier texte susceptible d’être enregistré sur votre terminal lorsque vous visitez un site. Il permet notamment de reconnaître votre navigateur pendant la durée de validité du cookie et de mémoriser certaines informations.</p>
+          <h2 class="h3 mb-3">Was ist ein Cookie?</h2>
+          <p class="text-body-secondary mb-0">Ein Cookie ist eine kleine Textdatei, die beim Besuch einer Website auf Ihrem Endgerät gespeichert werden kann. Sie ermöglicht es insbesondere, Ihren Browser während der Gültigkeitsdauer des Cookies wiederzuerkennen und bestimmte Informationen zu speichern.</p>
         </section>
 
         <section id="types" class="pb-5">
-          <h2 class="h3 mb-3">Types de cookies utilisés</h2>
+          <h2 class="h3 mb-3">Verwendete Cookie-Arten</h2>
           <div class="card border-0 shadow-sm">
             <div class="card-body">
               <ul class="mb-0">
-                <li class="mb-2"><span class="fw-semibold">Cookies strictement nécessaires</span> – indispensables au fonctionnement du site et à la fourniture des services.</li>
-                <li class="mb-2"><span class="fw-semibold">Cookies de mesure d’audience</span> – nous aident à comprendre l’utilisation du site pour l’améliorer.</li>
-                <li class="mb-2"><span class="fw-semibold">Cookies fonctionnels</span> – mémorisent vos préférences pour améliorer l’expérience.</li>
-                <li class="mb-2"><span class="fw-semibold">Cookies publicitaires</span> – personnalisent l’affichage de contenus et d’annonces (le cas échéant).</li>
-                <li class="mb-0"><span class="fw-semibold">Cookies tiers</span> – déposés par des partenaires pour des finalités déterminées (voir section dédiée).</li>
+                <li class="mb-2"><span class="fw-semibold">Unbedingt erforderliche Cookies</span> – unerlässlich für den Betrieb der Website und die Bereitstellung der Dienste.</li>
+                <li class="mb-2"><span class="fw-semibold">Analyse-Cookies</span> – helfen uns zu verstehen, wie die Website genutzt wird, um sie zu verbessern.</li>
+                <li class="mb-2"><span class="fw-semibold">Funktionale Cookies</span> – speichern Ihre Einstellungen, um das Nutzungserlebnis zu verbessern.</li>
+                <li class="mb-2"><span class="fw-semibold">Werbe-Cookies</span> – personalisieren die Anzeige von Inhalten und Werbung (falls zutreffend).</li>
+                <li class="mb-0"><span class="fw-semibold">Cookies von Drittanbietern</span> – von Partnern für bestimmte Zwecke gesetzt (siehe eigener Abschnitt).</li>
               </ul>
             </div>
           </div>
         </section>
 
         <section id="finalites" class="pb-5">
-          <h2 class="h3 mb-3">Finalités et base légale</h2>
-          <p class="text-body-secondary mb-0">Selon les cas, les cookies sont déposés sur la base de votre consentement ou de notre intérêt légitime (par exemple, ceux strictement nécessaires à la fourniture du service). Lorsque requis, votre consentement est recueilli préalablement au dépôt.</p>
+          <h2 class="h3 mb-3">Zwecke und Rechtsgrundlage</h2>
+          <p class="text-body-secondary mb-0">Je nach Fall werden Cookies auf Grundlage Ihrer Einwilligung oder unseres berechtigten Interesses gesetzt (z. B. die für die Bereitstellung des Dienstes unbedingt erforderlichen). Soweit erforderlich, wird Ihre Einwilligung vor dem Setzen eingeholt.</p>
         </section>
 
         <section id="consentement" class="pb-5">
-          <h2 class="h3 mb-3">Gestion du consentement</h2>
-          <p class="text-body-secondary mb-0">Vous pouvez accepter, refuser ou retirer votre consentement à tout moment. Le retrait de consentement n’affecte pas la licéité du traitement fondé sur le consentement effectué avant ce retrait.</p>
+          <h2 class="h3 mb-3">Einwilligungsverwaltung</h2>
+          <p class="text-body-secondary mb-0">Sie können Ihre Einwilligung jederzeit erteilen, verweigern oder widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung.</p>
         </section>
 
         <section id="parametrage" class="pb-5">
-          <h2 class="h3 mb-3">Paramétrage des cookies</h2>
-          <p class="text-body-secondary">Vous pouvez configurer votre navigateur pour accepter ou refuser les cookies, ou pour être averti lorsqu’un cookie est déposé. Le paramétrage peut affecter votre expérience utilisateur et l’accès à certains services.</p>
+          <h2 class="h3 mb-3">Cookie-Einstellungen</h2>
+          <p class="text-body-secondary">Sie können Ihren Browser so einstellen, dass er Cookies akzeptiert oder ablehnt oder Sie benachrichtigt, wenn ein Cookie gesetzt wird. Diese Einstellungen können Ihr Nutzungserlebnis und den Zugang zu bestimmten Diensten beeinflussen.</p>
           <div class="row g-3">
             <div class="col-md-6">
               <div class="border rounded-3 p-3 h-100">
-                <div class="fw-semibold mb-1">Exemples de liens d’aide</div>
+                <div class="fw-semibold mb-1">Beispiele für Hilfeseiten</div>
                 <ul class="fs-sm mb-0">
                   <li>Chrome</li>
                   <li>Firefox</li>
@@ -105,42 +105,42 @@
             </div>
             <div class="col-md-6">
               <div class="border rounded-3 p-3 h-100">
-                <div class="fw-semibold mb-1">Impact</div>
-                <p class="fs-sm text-body-secondary mb-0">Le refus de certains cookies peut dégrader la qualité de navigation et restreindre l’accès à certaines fonctionnalités.</p>
+                <div class="fw-semibold mb-1">Auswirkungen</div>
+                <p class="fs-sm text-body-secondary mb-0">Die Ablehnung bestimmter Cookies kann die Nutzungsqualität beeinträchtigen und den Zugang zu einigen Funktionen einschränken.</p>
               </div>
             </div>
           </div>
         </section>
 
         <section id="duree" class="pb-5">
-          <h2 class="h3 mb-3">Durée de conservation</h2>
-          <p class="text-body-secondary mb-0">La durée de vie des cookies varie selon leur finalité. Elle n’excède pas la durée nécessaire au regard des objectifs poursuivis et des exigences légales applicables.</p>
+          <h2 class="h3 mb-3">Speicherdauer</h2>
+          <p class="text-body-secondary mb-0">Die Lebensdauer von Cookies hängt von ihrem Zweck ab. Sie überschreitet nicht die im Hinblick auf die verfolgten Ziele und die geltenden gesetzlichen Anforderungen erforderliche Dauer.</p>
         </section>
 
         <section id="tiers" class="pb-5">
-          <h2 class="h3 mb-3">Cookies tiers</h2>
-          <p class="text-body-secondary mb-0">Des partenaires peuvent déposer des cookies via notre site pour des finalités déterminées (mesure d’audience, publicités, contenus externes, etc.). Nous vous invitons à consulter leur propre politique pour plus d’informations.</p>
+          <h2 class="h3 mb-3">Cookies von Drittanbietern</h2>
+          <p class="text-body-secondary mb-0">Partner können über unsere Website Cookies für bestimmte Zwecke setzen (Reichweitenmessung, Werbung, externe Inhalte usw.). Bitte lesen Sie deren eigene Richtlinien für weitere Informationen.</p>
         </section>
 
         <section id="securite" class="pb-5">
-          <h2 class="h3 mb-3">Sécurité</h2>
-          <p class="text-body-secondary mb-0">Nous mettons en œuvre des mesures techniques et organisationnelles appropriées afin d’assurer la sécurité des informations associées aux cookies.</p>
+          <h2 class="h3 mb-3">Sicherheit</h2>
+          <p class="text-body-secondary mb-0">Wir setzen geeignete technische und organisatorische Maßnahmen ein, um die Sicherheit der mit Cookies verbundenen Informationen zu gewährleisten.</p>
         </section>
 
         <section id="droits" class="pb-5">
-          <h2 class="h3 mb-3">Vos droits</h2>
-          <p class="text-body-secondary mb-0">Conformément à la réglementation applicable, vous disposez de droits d’accès, de rectification, d’opposition, d’effacement, de limitation et de portabilité des données. Vous pouvez également définir des directives relatives au sort de vos données après votre décès.</p>
+          <h2 class="h3 mb-3">Ihre Rechte</h2>
+          <p class="text-body-secondary mb-0">Gemäß den geltenden Vorschriften haben Sie das Recht auf Auskunft, Berichtigung, Widerspruch, Löschung, Einschränkung und Datenübertragbarkeit. Sie können außerdem Verfügungen über den Umgang mit Ihren Daten nach Ihrem Tod festlegen.</p>
         </section>
 
         <section id="contact" class="pb-5">
-          <h2 class="h3 mb-3">Contact</h2>
-          <p class="text-body-secondary">Pour toute question relative à cette politique ou pour exercer vos droits, vous pouvez nous contacter.</p>
-          <p class="mb-0"><a href="mailto:contact@example.com">contact@example.com</a> · <a href="{{ route('contact') }}">Formulaire de contact</a></p>
+          <h2 class="h3 mb-3">Kontakt</h2>
+          <p class="text-body-secondary">Bei Fragen zu dieser Richtlinie oder zur Ausübung Ihrer Rechte können Sie uns kontaktieren.</p>
+          <p class="mb-0"><a href="mailto:contact@example.com">contact@example.com</a> · <a href="{{ route('contact') }}">Kontaktformular</a></p>
         </section>
 
         <section id="maj" class="pb-2">
-          <h2 class="h3 mb-3">Mises à jour de la politique</h2>
-          <p class="text-body-secondary mb-0">La présente politique peut être amenée à évoluer. Toute modification significative sera portée à votre connaissance par les moyens appropriés.</p>
+          <h2 class="h3 mb-3">Aktualisierungen der Richtlinie</h2>
+          <p class="text-body-secondary mb-0">Diese Richtlinie kann sich ändern. Wesentliche Änderungen werden Ihnen auf geeignete Weise mitgeteilt.</p>
         </section>
 
       </div>

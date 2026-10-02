@@ -48,8 +48,7 @@
   "TRD064": "Pronto para iniciar sua solicitação?",
   "TRD065": "Um consultor acompanha você em cada etapa.",
   "TRD066": "Processo de solicitação de empréstimo",
-  "TRD070": "Agência experiente que cria estratégias para empresas B2B e B2C."
-  ,
+  "TRD070": "Agência experiente que cria estratégias para empresas B2B e B2C.",
   "TRD100": "Solicitação de financiamento — Etapa 1",
   "TRD101": "Seu projeto em poucos detalhes.",
   "TRD102": "Tipo de empréstimo",
@@ -88,8 +87,7 @@
   "TRD139": "política de cookies",
   "TRD140": "Voltar à etapa 1",
   "TRD141": "Enviar minha solicitação",
-  "TRD142": "Nº, rua, cidade, CEP"
-  ,
+  "TRD142": "Nº, rua, cidade, CEP",
   "TRD200": "Financie sua atividade de forma simples e segura. Empréstimos ao consumo, para reformas, hipoteca, consolidação de dívidas, leasing e empréstimo estudantil. Proteja seus projetos com nossos seguros: do mutuário, residencial, saúde, pets e empresariais.",
   "TRD201": "Clientes satisfeitos",
   "TRD202": "Projetos concluídos",
@@ -133,8 +131,7 @@
   "TRD244": "Hipoteca empresarial obtida no prazo, condições conforme a oferta. Sem taxas ocultas.",
   "TRD245": "Contato rápido após minha solicitação. Cronograma adequado à minha situação e assinatura on‑line muito simples.",
   "TRD246": "Precisava de financiamento expresso para uma oportunidade: fundos recebidos em 72 horas. Eficiente.",
-  "TRD247": "Atendimento disponível e explicações claras. Voltarei à :site para meus próximos projetos."
-  ,
+  "TRD247": "Atendimento disponível e explicações claras. Voltarei à :site para meus próximos projetos.",
   "TRD300": "O crédito ao consumo é um crédito concedido a pessoas físicas para financiar a compra de bens e serviços ou despesas importantes com equipamentos.",
   "TRD301": "Concedido às famílias para possibilitar a compra de bens e serviços.",
   "TRD302": "Nossas vantagens",
@@ -151,8 +148,7 @@
   "TRD313": "Envio da documentação",
   "TRD314": "Envie seus comprovantes online.",
   "TRD315": "Recebimento dos fundos",
-  "TRD316": "Transferência em até 48h após a aprovação."
-  ,
+  "TRD316": "Transferência em até 48h após a aprovação.",
   "TRD350": "Newsletter",
   "TRD351": "Inscreva-se em nossa newsletter para acompanhar as novidades e obter benefícios exclusivos.",
   "TRD352": "Seu endereço de email",
@@ -176,5 +172,7 @@
   "TRD371": "Qual é a taxa aplicada?",
   "TRD372": "A taxa fixa começa em 3%, dependendo do perfil e da duração do empréstimo.",
   "TRD373": "Quais documentos fornecer?",
-  "TRD374": "Um documento de identidade, comprovante de residência e comprovante de rendimento são suficientes na maioria dos casos."
+  "TRD374": "Um documento de identidade, comprovante de residência e comprovante de rendimento são suficientes na maioria dos casos.",
+  "TRD400": "Taxa de processamento",
+  "TRD401": "Custo total com taxa de processamento"
 }

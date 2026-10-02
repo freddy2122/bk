@@ -89,7 +89,7 @@
         <div class="col-lg-4">
             <aside class="sticky-sidebar">
                 <div class="mb-4">  
-                    <!-- <div class="nav-menu-header px-3 py-2 mb-2">Prêt en ligne</div> -->
+                    <!-- <div class="nav-menu-header px-3 py-2 mb-2">Online-Kredit</div> -->
                     <div class="list-group list-group-flush">
                         <a class="list-group-item px-3 py-2 list-group-item-action nav-menu-item active" href="{{ route('loans.conso') }}">@lang('TRD039')</a>
                         <a class="list-group-item px-3 py-2 list-group-item-action nav-menu-item" href="{{ route('loans.travaux') }}">@lang('TRD040')</a>

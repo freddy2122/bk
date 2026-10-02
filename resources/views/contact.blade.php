@@ -8,14 +8,14 @@
           <!-- Breadcrumb -->
           <nav aria-label="breadcrumb">
             <ol class="pt-lg-3 pb-lg-4 pb-2 breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Accueil</a></li>
-              <li class="breadcrumb-item active" aria-current="page">Contact</li>
+              <li class="breadcrumb-item"><a href="/">Startseite</a></li>
+              <li class="breadcrumb-item active" aria-current="page">Kontakt</li>
             </ol>
           </nav>
 
           <!-- Page title -->
-          <h1 class="display-2">Contact</h1>
-          <p class="fs-lg pb-4 mb-2 mb-sm-3">Contactez-nous</p>
+          <h1 class="display-2">Kontakt</h1>
+          <p class="fs-lg pb-4 mb-2 mb-sm-3">Kontaktieren Sie uns</p>
 
           <!-- Details cards -->
           <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4 pb-2 pb-sm-4 pb-lg-5">
@@ -24,7 +24,7 @@
             <div class="col">
               <div class="card border-0 h-100">
                 <div class="card-body">
-                  <h4 class="card-title mb-4">Address</h4>
+                  <h4 class="card-title mb-4">Adresse</h4>
                   <p class="fs-lg fw-medium pb-3 mb-3">514 Magnolia St. Orlando, FL 32806</p>
                   
                 </div>
@@ -35,7 +35,7 @@
             <div class="col">
               <div class="card border-0 h-100">
                 <div class="card-body">
-                  <h4 class="card-title mb-4">Téléphone </h4>
+                  <h4 class="card-title mb-4">Telefon</h4>
                   <ul class="list-unstyled mb-0">
                     <li class="pb-1 mb-2">
                       <a class="nav-link fs-lg p-0" href="tel:+178632256033">+1&nbsp;(786)&nbsp;322&nbsp;560&nbsp;33</a>
@@ -85,24 +85,24 @@
               <div class="row g-4">
                 <div class="col-sm-6">
                   <label class="form-label fs-base" for="name">Name</label>
-                  <input class="form-control form-control-lg" type="text" placeholder="Your name" required id="name">
+                  <input class="form-control form-control-lg" type="text" placeholder="Ihr Name" required id="name">
                 </div>
                 
                 <div class="col-sm-6">
                   <label class="form-label fs-base" for="email">E-mail</label>
-                  <input class="form-control form-control-lg" type="email" placeholder="Email address" required id="email">
+                  <input class="form-control form-control-lg" type="email" placeholder="E-Mail-Adresse" required id="email">
                 </div>
                 <div class="col-sm-6">
-                  <label class="form-label fs-base" for="phone">Téléphone </label>
-                  <input class="form-control form-control-lg" type="text" placeholder="Phone number" id="phone">
+                  <label class="form-label fs-base" for="phone">Telefon</label>
+                  <input class="form-control form-control-lg" type="text" placeholder="Telefonnummer" id="phone">
                 </div>
                 <div class="col-sm-12">
-                  <label class="form-label fs-base" for="message">Message</label>
-                  <textarea class="form-control form-control-lg" rows="6" placeholder="Enter your message here..." required id="message"></textarea>
+                  <label class="form-label fs-base" for="message">Nachricht</label>
+                  <textarea class="form-control form-control-lg" rows="6" placeholder="Ihre Nachricht hier eingeben..." required id="message"></textarea>
                 </div>
                
                 <div class="col-sm-12 text-center pt-4">
-                  <button class="btn btn-lg btn-light" type="submit">Envoyer</button>
+                  <button class="btn btn-lg btn-light" type="submit">Senden</button>
                 </div>
               </div>
             </form>
